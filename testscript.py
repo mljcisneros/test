@@ -1,5 +1,5 @@
 """test script"""
 
-print "hola mundo"
+print "hola"
 
 print "exit"
